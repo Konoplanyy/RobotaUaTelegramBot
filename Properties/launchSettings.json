@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RobotaUaTelegramBot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
